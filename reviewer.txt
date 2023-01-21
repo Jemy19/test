@@ -1,0 +1,10 @@
+GIT
+
+git init 
+git status
+git add . 
+git commit -m ""
+git log
+git reset 
+git stash 
+git stash pop
